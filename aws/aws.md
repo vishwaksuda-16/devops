@@ -165,3 +165,6 @@ Database services provide managed solutions for various data storage and process
 - NoSQL databases (DynamoDB)
 - Data warehousing solutions (Redshift)
 
+### ARN - Amazon Resource Name
+### ACL - Access Control Lists
+### AWS Policy Generator - Allows to create/manage policies for a service(Security mainly)
